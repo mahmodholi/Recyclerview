@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stones">
+        <item>alice in bordeland</item>
+        <item>braking bad</item>
+        <item>stranger things</item>
+        <item>prison break</item>
+        <item>vikings</item>
+        <item>wensday</item>
+    </string-array>
+
+</resources>
